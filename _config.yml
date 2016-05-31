@@ -1,4 +1,3 @@
-layout_spectrum: 0.9334964128211141
 typography_spectrum: 0.871638226788491
 color:
   brandStrength: 0.7061908338218927
@@ -11,4 +10,8 @@ color:
     - '#7E8AA2'
     - '#FFFFFF'
     - '#FF9800'
+layout_spectrum: 0.9334964128211141
+author:
+  name: Fabio Bruna
+logo: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com/578d8436-21c0-44a6-bf3a-5904f1d50bc4.jpg'
 name: ypenburg
