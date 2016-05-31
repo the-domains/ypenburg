@@ -1,17 +1,14 @@
-typography_spectrum: 0.871638226788491
 color:
-  brandStrength: 0.7061908338218927
-  lightness: 0.6067466146778315
-  saturation: 0.6304710772819817
-  rhythmicContrast: 0.40844056056812406
   brandColors:
     - '#000000'
     - '#263248'
     - '#7E8AA2'
     - '#FFFFFF'
     - '#FF9800'
-layout_spectrum: 0.9334964128211141
-author:
-  name: Fabio Bruna
-logo: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com/578d8436-21c0-44a6-bf3a-5904f1d50bc4.jpg'
+  brandStrength: 0.7061908338218927
+  lightness: 0.6067466146778315
+  rhythmicContrast: 0.40844056056812406
+  saturation: 0.6304710772819817
+layout_spectrum: 0.780405
 name: ypenburg
+typography_spectrum: 0.871638226788491
