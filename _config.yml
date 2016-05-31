@@ -1,0 +1,14 @@
+layout_spectrum: 0.9334964128211141
+typography_spectrum: 0.871638226788491
+color:
+  brandStrength: 0.7061908338218927
+  lightness: 0.6067466146778315
+  saturation: 0.6304710772819817
+  rhythmicContrast: 0.40844056056812406
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+name: ypenburg
