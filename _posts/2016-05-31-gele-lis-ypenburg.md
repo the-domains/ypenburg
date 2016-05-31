@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-05-31T16:22:39.498Z'
+datePublished: '2016-05-31T16:33:47.123Z'
 author: []
-dateModified: '2016-05-31T16:21:09.905Z'
+dateModified: '2016-05-31T16:33:46.359Z'
 title: 'Gele Lis, Ypenburg'
 description: Nieuwbouw aan de rand van Den Haag
-starred: false
 sourcePath: _posts/2016-05-31-gele-lis-ypenburg.md
+starred: true
 inFeed: true
 hasPage: true
 inNav: false
