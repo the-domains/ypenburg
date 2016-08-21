@@ -1,3 +1,9 @@
+name: Ypenburg
+layout_spectrum: 0.780405
+typography_spectrum: 0.871638226788491
+opengraph:
+  type: ''
+  appId: ''
 color:
   brandColors:
     - '#000000'
@@ -7,8 +13,12 @@ color:
     - '#FF9800'
   brandStrength: 0.7061908338218927
   lightness: 0.6067466146778315
-  rhythmicContrast: 0.40844056056812406
   saturation: 0.6304710772819817
-layout_spectrum: 0.780405
-name: ypenburg
-typography_spectrum: 0.871638226788491
+  rhythmicContrast: 0.40844056056812406
+title: ''
+author:
+  name: 'Fabio Bruna '
+  url: ''
+  email: ''
+content_rating:
+  adult: false
