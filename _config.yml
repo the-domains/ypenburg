@@ -1,20 +1,20 @@
+layout_spectrum: 0.5108707756735384
+typography_spectrum: 0.06326022557914257
+color:
+  brandColors:
+    - '#1A1F2B'
+    - '#30395C'
+    - '#4A6491'
+    - '#85A5CC'
+    - '#D0E4F2'
+  brandStrength: 0.4962320865597576
+  lightness: 0.06375631527043879
+  saturation: 0.5710320570506155
+  rhythmicContrast: 0.6823621655348688
 name: Ypenburg
-layout_spectrum: 0.780405
-typography_spectrum: 0.871638226788491
 opengraph:
   type: ''
   appId: ''
-color:
-  brandColors:
-    - '#000000'
-    - '#263248'
-    - '#7E8AA2'
-    - '#FFFFFF'
-    - '#FF9800'
-  brandStrength: 0.7061908338218927
-  lightness: 0.6067466146778315
-  saturation: 0.6304710772819817
-  rhythmicContrast: 0.40844056056812406
 title: >-
   Ypenburg, Den Haag. Nieuws, linkjes, foto's van & over de wijk en meer. Voor
   bewoners, ondernemers en bezoekers. Door @fabiobruna Onafhankelijk &
